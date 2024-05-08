@@ -1,0 +1,11 @@
+{
+  "name": "tên-dự-án-của-bạn",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
